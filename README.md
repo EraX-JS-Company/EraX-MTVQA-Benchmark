@@ -33,20 +33,25 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
     <tr>
         <th>Models</th>
         <td><b>Open-Source</b></td>
-        <td><b>VI</b></td>
+        <td><b>VI-MTVQA</b></td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>Qwen2-VL 72B🥇</font></th>
+        <th align="left">EraX-VL-7B-V2.0 🥇 </th>
+        <td align="middle">✘</td>
+        <td>47.2 </td>
+    </tr>
+    <tr>
+        <th align="left">Qwen2-VL 72B 🥈 </th>
         <td align="middle">✘</td>
         <td>41.6 </td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>ViGPT-VL 🥈 </font></th>
+        <th align="left">ViGPT-VL 🥉 </th>
         <td align="middle">✘</td>
         <td>39.1 </td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>EraX-VL-2B-V2.0 🥉 </font></th>
+        <th align="left"><font color=darkred>EraX-VL-2B-V2.0</font></th>
         <td align="middle"> ✅ </td>
         <td>38.2 </td>
     </tr>
@@ -66,12 +71,12 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>30.0 </td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>Claude3 Opus</font></th>
+        <th align="left">Claude3 Opus</th>
         <td align="middle">✘</td>
         <td>29.1 </td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>GPT-4o mini </font></th>
+        <th align="left">GPT-4o mini </th>
         <td align="middle"> ✘ </td>
         <td>29.1 </td>
     </tr>
@@ -81,12 +86,12 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>28.9 </td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>Gemini Ultra </font></th>
+        <th align="left">Gemini Ultra</th>
         <td align="middle">✘</td>
         <td>28.6 </td>
     </tr>
      <tr>
-        <th align="left">InternVL2 76B</th>
+        <th align="left"><font color=darkred>InternVL2 76B</font></th>
         <td align="middle"> ✅ </td>
         <td>26.9 </td>
     </tr>
@@ -106,7 +111,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>18.1 </td>
     </tr>
     <tr>
-        <th align="left"><font color=blue>MiniCPM-V2.5</font></th>
+        <th align="left"><font color=darkred>MiniCPM-V2.5</font></th>
         <td align="middle">✅</td>
         <td>15.3 </td>
     </tr>
