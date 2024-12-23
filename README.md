@@ -46,7 +46,12 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>39.1 </td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>EraX-VL-7B-V1 🥉 </font></th>
+        <th align="left"><font color=darkred>EraX-VL-2B-V2.0 🥉 </font></th>
+        <td align="middle"> ✅ </td>
+        <td>38.2 </td>
+    </tr>
+    <tr>
+        <th align="left"><font color=darkred>EraX-VL-7B-V1 </font></th>
         <td align="middle"> ✅ </td>
         <td>37.6 </td>
     </tr>
