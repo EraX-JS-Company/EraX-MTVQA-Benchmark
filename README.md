@@ -26,6 +26,17 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 ```
 .
 ├── README.md
+├── MTVQA
+│   ├── test
+│   │   ├── imgs
+│   │   │   └── VI
+│   │   └── json
+│   │       └── test_VI.json
+│   └── train
+│       ├── imgs
+│       │   └── VI
+│       └── json
+│           └── train_VI.json
 ├── eval
 │   ├── __pycache__
 │   ├── acc.py
@@ -39,17 +50,6 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 │   ├── acc.sh
 │   └── eraxvl-2b-v2.0.sh
 └── utils.py
-└── MTVQA
-    ├── test
-    │   ├── imgs
-    │   │   └── VI
-    │   └── json
-    │       └── test_VI.json
-    └── train
-        ├── imgs
-        │   └── VI
-        └── json
-            └── train_VI.json
 ```
 
 ## 🔮 Evaluation
