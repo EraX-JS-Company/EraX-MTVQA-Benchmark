@@ -21,6 +21,36 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 ## 👀 Data
 | [RawData (Google Drive)](https://drive.google.com/file/d/1u09EVNVj17ws_AHEB7Y0eZiSPseTJUTx/view?usp=sharing) | [Huggingface Dataset](https://huggingface.co/datasets/ByteDance/MTVQA)
 
+**Data structured**
+
+```
+.
+├── README.md
+├── eval
+│   ├── __pycache__
+│   ├── acc.py
+│   ├── internvl.py
+│   └── qwen2vl.py
+├── images
+│   └── mtvqa_examples.png
+├── results
+│   └── eraxvl-2b-v2.0.json
+├── scripts
+│   ├── acc.sh
+│   └── eraxvl-2b-v2.0.sh
+└── utils.py
+└── MTVQA
+    ├── test
+    │   ├── imgs
+    │   │   └── VI
+    │   └── json
+    │       └── test_VI.json
+    └── train
+        ├── imgs
+        │   └── VI
+        └── json
+            └── train_VI.json
+```
 
 ## 🔮 Evaluation
 The test code for evaluating models in the paper can be found in [scripts](./scripts).
