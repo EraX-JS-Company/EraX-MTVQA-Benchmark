@@ -45,10 +45,10 @@ MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering
 ├── images
 │   └── mtvqa_examples.png
 ├── results
-│   └── eraxvl-2b-v2.0.json
+│   └── eraxvl-2b-v1.5.json
 ├── scripts
 │   ├── acc.sh
-│   └── eraxvl-2b-v2.0.sh
+│   └── eraxvl-2b-v1.5.sh
 └── utils.py
 ```
 
@@ -66,7 +66,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td><b>VI-MTVQA</b></td>
     </tr>
     <tr>
-        <th align="left">EraX-VL-7B-V2.0 🥇 </th>
+        <th align="left">EraX-VL-7B-V1.5 🥇 </th>
         <td align="middle">✘</td>
         <td>47.2 </td>
     </tr>
@@ -81,7 +81,7 @@ If you want to add your results to the MTVQA leaderboard, feel free to email us 
         <td>39.1 </td>
     </tr>
     <tr>
-        <th align="left"><font color=darkred>EraX-VL-2B-V2.0</font></th>
+        <th align="left"><font color=darkred>EraX-VL-2B-V1.5</font></th>
         <td align="middle"> ✅ </td>
         <td>38.2 </td>
     </tr>
